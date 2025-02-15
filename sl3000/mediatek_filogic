@@ -58,6 +58,8 @@ zyxel,ex5601-t0-ubootmod)
 acer,predator-w6|\
 acer,predator-w6d|\
 acer,vero-w6m|\
+sl,3000|\
+sl,3000-emmc|\
 glinet,gl-mt2500|\
 glinet,gl-mt6000|\
 glinet,gl-x3000|\
@@ -73,8 +75,6 @@ bananapi,bpi-r3|\
 bananapi,bpi-r3-mini|\
 bananapi,bpi-r4|\
 bananapi,bpi-r4-poe|\
-sl,3000|\
-sl,3000-emmc|\
 cmcc,rax3000m|\
 jdcloud,re-cp-03|\
 konka,komi-a31)
